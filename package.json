@@ -1,0 +1,19 @@
+{
+  "name": "payplug-form",
+  "version": "1.0.1",
+  "description": "Official Payplug form.js file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "payplug",
+    "payment",
+    "form"
+  ],
+  "author": "fbaldo31",
+  "license": "ISC",
+  "repository": {
+    "url": "https://github.com/fbaldo31/payplug-form.git"
+  }
+}
